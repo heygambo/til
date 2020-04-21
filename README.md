@@ -21,5 +21,5 @@ They might be things that I've looked up a million times that never make the way
 ### JavaScript
 
 - [Assert if input is an integer](javascript/assert-is-integer.md)
-- [# NPM Package: Casual](javascript/npm-package-casual.md)
+- [NPM Package: Casual](javascript/npm-package-casual.md)
 - [x times loop one liner](javascript/x-times-loop-one-liner.md)
